@@ -94,4 +94,7 @@
     <!-- Custom Carrier Label -->
     <dimen name="status_bar_carrier_height">14dp</dimen>
 
+    <!-- App lock -->
+    <dimen name="applock_icon_dimension">54dp</dimen>
+
 </resources>
